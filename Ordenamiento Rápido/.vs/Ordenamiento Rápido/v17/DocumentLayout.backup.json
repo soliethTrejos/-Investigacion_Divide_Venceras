@@ -36,9 +36,10 @@
               "RelativeDocumentMoniker": "Ordenamiento R\u00E1pido\\Form1.cs",
               "ToolTip": "C:\\Users\\solie\\OneDrive\\Desktop\\Programa\\-Investigacion_Divide_Venceras\\Ordenamiento R\u00E1pido\\Ordenamiento R\u00E1pido\\Form1.cs",
               "RelativeToolTip": "Ordenamiento R\u00E1pido\\Form1.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwBgAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBgAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T03:17:54.329Z"
+              "WhenOpened": "2024-10-11T03:17:54.329Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -46,9 +47,9 @@
               "Title": "OrdenamientoRapido.cs",
               "DocumentMoniker": "C:\\Users\\solie\\OneDrive\\Desktop\\Programa\\-Investigacion_Divide_Venceras\\Ordenamiento R\u00E1pido\\Ordenamiento R\u00E1pido\\models\\OrdenamientoRapido.cs",
               "RelativeDocumentMoniker": "Ordenamiento R\u00E1pido\\models\\OrdenamientoRapido.cs",
-              "ToolTip": "C:\\Users\\solie\\OneDrive\\Desktop\\Programa\\-Investigacion_Divide_Venceras\\Ordenamiento R\u00E1pido\\Ordenamiento R\u00E1pido\\models\\OrdenamientoRapido.cs",
-              "RelativeToolTip": "Ordenamiento R\u00E1pido\\models\\OrdenamientoRapido.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\solie\\OneDrive\\Desktop\\Programa\\-Investigacion_Divide_Venceras\\Ordenamiento R\u00E1pido\\Ordenamiento R\u00E1pido\\models\\OrdenamientoRapido.cs*",
+              "RelativeToolTip": "Ordenamiento R\u00E1pido\\models\\OrdenamientoRapido.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T03:07:56.392Z",
               "EditorCaption": ""
@@ -62,7 +63,8 @@
               "ToolTip": "C:\\Users\\solie\\OneDrive\\Desktop\\Programa\\-Investigacion_Divide_Venceras\\Ordenamiento R\u00E1pido\\Ordenamiento R\u00E1pido\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Ordenamiento R\u00E1pido\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T03:07:08.452Z"
+              "WhenOpened": "2024-10-11T03:07:08.452Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
