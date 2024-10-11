@@ -8,3 +8,13 @@ C:\Users\dxand\OneDrive\Escritorio\DivideyVenceras\DivideyVenceras1\bin\Debug\Di
 C:\Users\dxand\OneDrive\Escritorio\DivideyVenceras\DivideyVenceras1\bin\Debug\DivideyVenceras1.pdb
 C:\Users\dxand\OneDrive\Escritorio\DivideyVenceras\DivideyVenceras1\obj\Debug\DivideyVenceras1.exe
 C:\Users\dxand\OneDrive\Escritorio\DivideyVenceras\DivideyVenceras1\obj\Debug\DivideyVenceras1.pdb
+C:\Users\dxand\OneDrive\Escritorio\DivideVencerás\-Investigacion_Divide_Venceras\DivideyVenceras1\bin\Debug\DivideyVenceras1.exe.config
+C:\Users\dxand\OneDrive\Escritorio\DivideVencerás\-Investigacion_Divide_Venceras\DivideyVenceras1\bin\Debug\DivideyVenceras1.exe
+C:\Users\dxand\OneDrive\Escritorio\DivideVencerás\-Investigacion_Divide_Venceras\DivideyVenceras1\bin\Debug\DivideyVenceras1.pdb
+C:\Users\dxand\OneDrive\Escritorio\DivideVencerás\-Investigacion_Divide_Venceras\DivideyVenceras1\obj\Debug\DivideyVenceras1.csproj.AssemblyReference.cache
+C:\Users\dxand\OneDrive\Escritorio\DivideVencerás\-Investigacion_Divide_Venceras\DivideyVenceras1\obj\Debug\DivideyVenceras1.Form1.resources
+C:\Users\dxand\OneDrive\Escritorio\DivideVencerás\-Investigacion_Divide_Venceras\DivideyVenceras1\obj\Debug\DivideyVenceras1.Properties.Resources.resources
+C:\Users\dxand\OneDrive\Escritorio\DivideVencerás\-Investigacion_Divide_Venceras\DivideyVenceras1\obj\Debug\DivideyVenceras1.csproj.GenerateResource.cache
+C:\Users\dxand\OneDrive\Escritorio\DivideVencerás\-Investigacion_Divide_Venceras\DivideyVenceras1\obj\Debug\DivideyVenceras1.csproj.CoreCompileInputs.cache
+C:\Users\dxand\OneDrive\Escritorio\DivideVencerás\-Investigacion_Divide_Venceras\DivideyVenceras1\obj\Debug\DivideyVenceras1.exe
+C:\Users\dxand\OneDrive\Escritorio\DivideVencerás\-Investigacion_Divide_Venceras\DivideyVenceras1\obj\Debug\DivideyVenceras1.pdb
