@@ -33,6 +33,7 @@
             this.btnAgregar = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.lbResultados = new System.Windows.Forms.ListBox();
+            this.btnDelete = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -65,6 +66,7 @@
             this.btnAgregar.TabIndex = 2;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = true;
+            this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
             // 
             // label2
             // 
@@ -89,11 +91,22 @@
             this.lbResultados.Size = new System.Drawing.Size(1276, 576);
             this.lbResultados.TabIndex = 4;
             // 
+            // btnDelete
+            // 
+            this.btnDelete.Location = new System.Drawing.Point(1013, 414);
+            this.btnDelete.Name = "btnDelete";
+            this.btnDelete.Size = new System.Drawing.Size(334, 55);
+            this.btnDelete.TabIndex = 5;
+            this.btnDelete.Text = "Clear ListBox";
+            this.btnDelete.UseVisualStyleBackColor = true;
+            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(19F, 37F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1751, 1395);
+            this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.lbResultados);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.btnAgregar);
@@ -114,6 +127,7 @@
         private System.Windows.Forms.Button btnAgregar;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.ListBox lbResultados;
+        private System.Windows.Forms.Button btnDelete;
     }
 }
 
