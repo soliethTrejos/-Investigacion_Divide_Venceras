@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\edgar\\OneDrive\\Documentos\\C#\\Divide_Y_Venceras\\-Investigacion_Divide_Venceras\\Suma en un Arreglo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8CF9E87-6771-4CC5-8ED5-6D8DAC666138}|Suma en un Arreglo.csproj|c:\\users\\edgar\\onedrive\\documentos\\c#\\divide_y_venceras\\-investigacion_divide_venceras\\suma en un arreglo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8CF9E87-6771-4CC5-8ED5-6D8DAC666138}|Suma en un Arreglo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8CF9E87-6771-4CC5-8ED5-6D8DAC666138}|Suma en un Arreglo.csproj|C:\\Users\\edgar\\OneDrive\\Documentos\\C#\\Divide_Y_Venceras\\-Investigacion_Divide_Venceras\\Suma en un Arreglo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E8CF9E87-6771-4CC5-8ED5-6D8DAC666138}|Suma en un Arreglo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CF9E87-6771-4CC5-8ED5-6D8DAC666138}|Suma en un Arreglo.csproj|c:\\users\\edgar\\onedrive\\documentos\\c#\\divide_y_venceras\\-investigacion_divide_venceras\\suma en un arreglo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CF9E87-6771-4CC5-8ED5-6D8DAC666138}|Suma en un Arreglo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\edgar\\OneDrive\\Documentos\\C#\\Divide_Y_Venceras\\-Investigacion_Divide_Venceras\\Suma en un Arreglo\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\edgar\\OneDrive\\Documentos\\C#\\Divide_Y_Venceras\\-Investigacion_Divide_Venceras\\Suma en un Arreglo\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
