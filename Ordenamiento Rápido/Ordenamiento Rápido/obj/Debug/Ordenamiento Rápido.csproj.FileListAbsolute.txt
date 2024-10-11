@@ -1,0 +1,10 @@
+C:\Users\solie\OneDrive\Desktop\Programa\-Investigacion_Divide_Venceras\Ordenamiento Rápido\Ordenamiento Rápido\bin\Debug\Ordenamiento Rápido.exe.config
+C:\Users\solie\OneDrive\Desktop\Programa\-Investigacion_Divide_Venceras\Ordenamiento Rápido\Ordenamiento Rápido\bin\Debug\Ordenamiento Rápido.exe
+C:\Users\solie\OneDrive\Desktop\Programa\-Investigacion_Divide_Venceras\Ordenamiento Rápido\Ordenamiento Rápido\bin\Debug\Ordenamiento Rápido.pdb
+C:\Users\solie\OneDrive\Desktop\Programa\-Investigacion_Divide_Venceras\Ordenamiento Rápido\Ordenamiento Rápido\obj\Debug\Ordenamiento Rápido.csproj.AssemblyReference.cache
+C:\Users\solie\OneDrive\Desktop\Programa\-Investigacion_Divide_Venceras\Ordenamiento Rápido\Ordenamiento Rápido\obj\Debug\Ordenamiento_Rápido.Form1.resources
+C:\Users\solie\OneDrive\Desktop\Programa\-Investigacion_Divide_Venceras\Ordenamiento Rápido\Ordenamiento Rápido\obj\Debug\Ordenamiento_Rápido.Properties.Resources.resources
+C:\Users\solie\OneDrive\Desktop\Programa\-Investigacion_Divide_Venceras\Ordenamiento Rápido\Ordenamiento Rápido\obj\Debug\Ordenamiento Rápido.csproj.GenerateResource.cache
+C:\Users\solie\OneDrive\Desktop\Programa\-Investigacion_Divide_Venceras\Ordenamiento Rápido\Ordenamiento Rápido\obj\Debug\Ordenamiento Rápido.csproj.CoreCompileInputs.cache
+C:\Users\solie\OneDrive\Desktop\Programa\-Investigacion_Divide_Venceras\Ordenamiento Rápido\Ordenamiento Rápido\obj\Debug\Ordenamiento Rápido.exe
+C:\Users\solie\OneDrive\Desktop\Programa\-Investigacion_Divide_Venceras\Ordenamiento Rápido\Ordenamiento Rápido\obj\Debug\Ordenamiento Rápido.pdb
