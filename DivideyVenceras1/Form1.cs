@@ -75,7 +75,7 @@ namespace DivideyVenceras1
             return min(arr, 0, arr.Length - 1);
         }
 
-        // Divide y vencerás
+        // Divide y vencerás max
         private int max(int[] arr, int inicio, int fin)
         {
             if (inicio == fin)
@@ -89,7 +89,7 @@ namespace DivideyVenceras1
             return Math.Max(maxIzq, maxDer);
         }
 
-        // Método recursivo de Divide y Vencerás para encontrar el mínimo
+        // Divide y vencerás min
         private int min(int[] arr, int inicio, int fin)
         {
             if (inicio == fin)
