@@ -16,5 +16,22 @@ namespace Suma_en_un_Arreglo
         {
             InitializeComponent();
         }
+        private int Sum(int[] array, int left, int right)
+        {
+            if (left == right)
+                return array[left];
+
+            int mid = left + (right - left) / 2;
+
+            int sumLeft = Sum(array, left, mid);
+            int sumRight = Sum(array, mid + 1, right);
+
+            return sumLeft + sumRight;
+        }
+
+        private void btnCalcular_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
