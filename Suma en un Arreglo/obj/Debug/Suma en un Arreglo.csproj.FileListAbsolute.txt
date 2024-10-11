@@ -1,0 +1,10 @@
+C:\Users\edgar\OneDrive\Documentos\C#\Divide_Y_Venceras\-Investigacion_Divide_Venceras\Suma en un Arreglo\bin\Debug\Suma en un Arreglo.exe.config
+C:\Users\edgar\OneDrive\Documentos\C#\Divide_Y_Venceras\-Investigacion_Divide_Venceras\Suma en un Arreglo\bin\Debug\Suma en un Arreglo.exe
+C:\Users\edgar\OneDrive\Documentos\C#\Divide_Y_Venceras\-Investigacion_Divide_Venceras\Suma en un Arreglo\bin\Debug\Suma en un Arreglo.pdb
+C:\Users\edgar\OneDrive\Documentos\C#\Divide_Y_Venceras\-Investigacion_Divide_Venceras\Suma en un Arreglo\obj\Debug\Suma en un Arreglo.csproj.AssemblyReference.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Divide_Y_Venceras\-Investigacion_Divide_Venceras\Suma en un Arreglo\obj\Debug\Suma_en_un_Arreglo.Form1.resources
+C:\Users\edgar\OneDrive\Documentos\C#\Divide_Y_Venceras\-Investigacion_Divide_Venceras\Suma en un Arreglo\obj\Debug\Suma_en_un_Arreglo.Properties.Resources.resources
+C:\Users\edgar\OneDrive\Documentos\C#\Divide_Y_Venceras\-Investigacion_Divide_Venceras\Suma en un Arreglo\obj\Debug\Suma en un Arreglo.csproj.GenerateResource.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Divide_Y_Venceras\-Investigacion_Divide_Venceras\Suma en un Arreglo\obj\Debug\Suma en un Arreglo.csproj.CoreCompileInputs.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Divide_Y_Venceras\-Investigacion_Divide_Venceras\Suma en un Arreglo\obj\Debug\Suma en un Arreglo.exe
+C:\Users\edgar\OneDrive\Documentos\C#\Divide_Y_Venceras\-Investigacion_Divide_Venceras\Suma en un Arreglo\obj\Debug\Suma en un Arreglo.pdb

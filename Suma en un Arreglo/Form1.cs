@@ -31,7 +31,32 @@ namespace Suma_en_un_Arreglo
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
+            try
+            {
+                string input = tbNums.Text;
 
+                if (string.IsNullOrWhiteSpace(input))
+                {
+                    MessageBox.Show("Por favor, ingrese al menos un número.", "Entrada Inválida", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
+
+                int[] numbers = input.Split(',')
+                                     .Select(s => int.Parse(s.Trim()))
+                                     .ToArray();
+
+                int totalSum = Sum(numbers, 0, numbers.Length - 1);
+
+                lblResult.Text = $"La suma es: {totalSum}";
+            }
+            catch (FormatException)
+            {
+                MessageBox.Show("Por favor, ingrese solo números separados por comas.", "Error de Formato", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Ocurrió un error: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
     }
 }

@@ -82,7 +82,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnCalcular);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Suma de numeros";
             this.ResumeLayout(false);
             this.PerformLayout();
 
